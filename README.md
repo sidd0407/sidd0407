@@ -1,8 +1,6 @@
 <!--### Hi there 👋
 
-
 **sidd0407/sidd0407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -15,13 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 <p align="left"> <a href="https://twitter.com/sidd_0407" target="blank"><img src="https://img.shields.io/twitter/follow/sidd_0407?logo=twitter&style=for-the-badge" alt="sidd_0407" /></a> </p>
 -->
+
+
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Namaste🙏🏻, I'm $iddhartha Das! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="190">
 <h3 align="center">An Aspiring Developer trying to build new projects with my limited skills😄 </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sidd0407&label=Profile%20views&color=0e75b6&style=flat" alt="sidd0407" /> </p>
-
-
 
 - 🔭 I’m currently working on **Full Stack Web Development👨‍💻**
 
@@ -33,7 +31,7 @@ Here are some ideas to get you started:
 
 <!--- ⚡ Fun fact is ****-->
 
-<img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="270">
+<img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="250">
 
 
 <h3 align="left">Connect with me:</h3>
