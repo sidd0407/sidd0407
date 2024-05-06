@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Namaste🙏🏻, I'm $iddhartha Das! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="190">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180">
 <h3 align="center">An Aspiring Developer trying to build new projects with my limited skills😄 </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sidd0407&label=Profile%20views&color=0e75b6&style=flat" alt="sidd0407" /> </p>
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <!--- ⚡ Fun fact is ****-->
 
-<img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="250">
+<img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="230">
 
 
 <h3 align="left">Connect with me:</h3>
